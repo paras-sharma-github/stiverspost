@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/stiverspost/static/css/main.3cac4f3d.css",
-    "main.js": "/stiverspost/static/js/main.b55f4e1a.js",
+    "main.css": "/stiverspost/static/css/main.74b2d534.css",
+    "main.js": "/stiverspost/static/js/main.d42748d4.js",
     "static/media/banner_final.png": "/stiverspost/static/media/banner_final.04ba6d6a9a754bb68470.png",
     "static/media/over strange.gif": "/stiverspost/static/media/over strange.a329ca1de5d1e21f5225.gif",
     "static/media/INTERNSHIP.png": "/stiverspost/static/media/INTERNSHIP.e05cd33540c90ac16183.png",
@@ -24,11 +24,11 @@
     "static/media/cardekho.svg": "/stiverspost/static/media/cardekho.951e5d9e2f2732c82ca489b3a54517b6.svg",
     "static/media/bms.svg": "/stiverspost/static/media/bms.85d69222353a4eaf106bf539e71b1765.svg",
     "index.html": "/stiverspost/index.html",
-    "main.3cac4f3d.css.map": "/stiverspost/static/css/main.3cac4f3d.css.map",
-    "main.b55f4e1a.js.map": "/stiverspost/static/js/main.b55f4e1a.js.map"
+    "main.74b2d534.css.map": "/stiverspost/static/css/main.74b2d534.css.map",
+    "main.d42748d4.js.map": "/stiverspost/static/js/main.d42748d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cac4f3d.css",
-    "static/js/main.b55f4e1a.js"
+    "static/css/main.74b2d534.css",
+    "static/js/main.d42748d4.js"
   ]
 }
