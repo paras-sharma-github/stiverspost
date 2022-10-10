@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74b2d534.css",
-    "main.js": "/static/js/main.ff0af772.js",
+    "main.js": "/static/js/main.51624f36.js",
     "static/media/banner_final.png": "/static/media/banner_final.04ba6d6a9a754bb68470.png",
     "static/media/over strange.gif": "/static/media/over strange.a329ca1de5d1e21f5225.gif",
     "static/media/INTERNSHIP.png": "/static/media/INTERNSHIP.e05cd33540c90ac16183.png",
@@ -25,10 +25,10 @@
     "static/media/bms.svg": "/static/media/bms.85d69222353a4eaf106bf539e71b1765.svg",
     "index.html": "/index.html",
     "main.74b2d534.css.map": "/static/css/main.74b2d534.css.map",
-    "main.ff0af772.js.map": "/static/js/main.ff0af772.js.map"
+    "main.51624f36.js.map": "/static/js/main.51624f36.js.map"
   },
   "entrypoints": [
     "static/css/main.74b2d534.css",
-    "static/js/main.ff0af772.js"
+    "static/js/main.51624f36.js"
   ]
 }
